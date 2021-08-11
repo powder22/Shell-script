@@ -1,0 +1,8 @@
+product_package/conf/entity_conf/mail_server/mail_setting.json
+source/library/com/manageengine/sdpod/exim/APIExImBase.java
+source/library/com/manageengine/sdpod/v3api/handlerimpl/ProblemTemplateHandler.java
+source/library/com/manageengine/sdpod/v3api/transformer/RequestApproverTransformer.java
+source/library/com/manageengine/sdpod/zmail/ZMailConstantsExternal.java
+webapps/servicedesk/jsp/setup/QueueDefForm.jspf
+webapps/servicedesk/sdp_scripts/objects/admin/mail_server/SdpAdminMailSetting.js
+webapps/servicedesk/sdp_templates/requests/cancel-title-button.hbs
